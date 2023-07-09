@@ -1,0 +1,14 @@
+Partlist exported from C:/Users/Robert/Documents/EAGLE/projects/Amstrad-CPC-Z80-DART/Amstrad-CPC-Z80-DART-1-0.sch at 7/9/2023 12:03 PM
+
+Qty Value          Device               Package        Parts              Description                            
+1                  Z80DART              DIL40          IC1                Z80 FAMILY DEVICE                      
+5   0.1uF          C-EU050-025X075      C050-025X075   C1, C2, C3, C4, C5 CAPACITOR, European symbol             
+1   10k            10KOHM-HORIZ-1/4W-1% AXIAL-0.3      R1                 10kΩ resistor                          
+1   2550-          2550-                PAK100/2500-50 BUS                3M (TM) Pak 100 4-Wall Header          
+1   7400N          7400N                DIL14          IC2                Quad 2-input NAND gate                 
+1   7432N          7432N                DIL14          IC5                Quad 2-input OR gate                   
+2   74HCT138N      74HCT138N            DIL16          IC3, IC4           3-line to 8-line DECODER/DEMULTIPLEXER 
+1   TSW-102-07-G-D TSW-102-07-G-D       TSW-102-XX-G-D CSLB               THROUGH-HOLE .025" SQ POST HEADER      
+1   TSW-104-07-G-D TSW-104-07-G-D       TSW-104-XX-G-D CSHB               THROUGH-HOLE .025" SQ POST HEADER      
+1   TSW-120-07-G-D TSW-120-07-G-D       TSW-120-XX-G-D T                  THROUGH-HOLE .025" SQ POST HEADER      
+1   TSW-128-07-G-S TSW-128-07-G-S       TSW-128-XX-G-S D                  THROUGH-HOLE .025" SQ POST HEADER      
