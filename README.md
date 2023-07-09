@@ -28,7 +28,7 @@ See [CPC Wiki IO Port Summary](https://www.cpcwiki.eu/index.php/I/O_Port_Summary
 ## Testing
 The Z80 DART board has been built and simple testing has been completed on an Amstrad CPC 6128.
 
-Note testing was completed with a Z80 CTC board for the baud clock generation.
+Note testing was completed with a Z80 CTC board for the baud clock generation. The Amstrad Clock can be used as a baud clock but this will result in a non standard baud rate.
 
 Note also an FTDI Serial Adapter was used to connect to a putty session.
 
