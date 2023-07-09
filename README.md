@@ -1,7 +1,7 @@
 # Amstrad CPC Z80 DART
 Simple Z80 DART board compatible with the Amstrad CPC and MX4 connector.
 
-![assembled-board](https://github.com/rabs664/Amstrad-CPC-Z80-DART/assets/105534000/4f0edee9-248e-4be9-969f-24e6a06356eb)
+![assembled-board](https://github.com/rabs664/Amstrad-CPC-Z80-DART/assets/105534000/911a2592-647b-4e45-a5e4-09c798dff751)
 
 ## Objective
 Prototyping board to learn about the Z80 DART, and how to write Z80 assembly using an Amstrad CPC.
