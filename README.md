@@ -36,7 +36,7 @@ Note also an FTDI Serial Adapter was used to connect to a putty session.
 PCBs are available from Seeed Studio but awaiting approval.
 
 ## Components
-This TBD contains all components excluding the Z80 DART.
+This [Digi-Key List](https://www.digikey.co.uk/en/mylists/list/F0CQ96V54G) contains all components excluding the Z80 DART and FTDI Serial Adapter.
 
 Note the right angled header for the port connections was not available at the time of producing this list but all other components were in stock for shipping immediately.
 
