@@ -30,6 +30,8 @@ The Z80 DART board has been built and simple testing has been completed on an Am
 
 Note testing was completed with a Z80 CTC board for the baud clock generation.
 
+Note also an FTDI Serial Adapter was used to connect to a putty session.
+
 ## PCBs
 PCBs are available from Seeed Studio but awaiting approval.
 
