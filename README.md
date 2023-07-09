@@ -32,6 +32,8 @@ Note testing was completed with a Z80 CTC board for the baud clock generation.
 
 Note also an FTDI Serial Adapter was used to connect to a putty session.
 
+IEI was tied high (via a 10Kohm regsiter) using a jumper to IEIE. 
+
 ## PCBs
 PCBs are available from Seeed Studio but awaiting approval.
 
