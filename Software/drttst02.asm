@@ -32,8 +32,11 @@ include "ctclib01.asm"
         cp a,"Q"
         jp nz, GetCharLoop
     
-ret st02.dsk'
+ret 
 
 
 
+    CharBuffer:
+    DEFB "X"
 
+save 'drttst02.bin',#8000,1300,DSK,'drttst02.dsk'
