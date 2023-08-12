@@ -6,6 +6,7 @@
 
 org #8000
 
+include "cfwlib03.asm"
 include "drtlib01.asm"
 include "ctclib01.asm"
 
@@ -27,15 +28,11 @@ include "ctclib01.asm"
 
         ;Quit on "Q"
         ld a,(Charbuffer)
+        FwTxtWrChar
         cp a,"Q"
         jp nz, GetCharLoop
     
-ret 
-
-    CharBuffer:
-    DEFB "X"
-
-save 'drttst02.bin',#8000,1300,DSK,'drttst02.dsk'
+ret st02.dsk'
 
 
 
