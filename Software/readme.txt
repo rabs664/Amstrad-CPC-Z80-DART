@@ -7,3 +7,5 @@ drttst02.asm is a test program written in Z80 Assembly (using RASM) which loops 
 drtlib01.asm provides libary routines and macros for the DART.
 
 ctclib01.asm provides libary routines and macros for the CTC.
+
+cfwlib03.asm provides libary routines and macros from to access the CPC Firmware.
