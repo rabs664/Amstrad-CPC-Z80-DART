@@ -35,7 +35,7 @@ Note also an FTDI Serial Adapter was used to connect to a putty session.
 IEI was tied high (via a 10K resistor) using a jumper to IEIE. 
 
 ## PCBs
-PCBs are available from Seeed Studio but awaiting approval.
+PCBs are available from [Seeed Studio](https://www.seeedstudio.com/Simple-Z80-DART-board-compatible-with-the-Amstrad-CPC-and-MX4-connecto-g-1395237).
 
 ## Components
 This [Digi-Key List](https://www.digikey.co.uk/en/mylists/list/F0CQ96V54G) contains all components excluding the Z80 DART and FTDI Serial Adapter.
